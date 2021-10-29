@@ -20,6 +20,7 @@
   "dependencies": {
     "bwip-js": "^2.0.6",
     "ejs": "^3.0.1",
+    "html-pdf": "^3.0.1",
     "puppeteer": "^9.1.1",
     "soap": "^0.30.0",
     "xml-js": "^1.6.11"
